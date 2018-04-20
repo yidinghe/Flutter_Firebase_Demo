@@ -1,6 +1,3 @@
-# flutter_firebase
-
-A Flutter Firebase Demo.
 
 <div align = "center">
     <h1>Flutter Firebase</h1>
